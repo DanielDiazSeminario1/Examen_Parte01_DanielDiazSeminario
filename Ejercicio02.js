@@ -1,4 +1,5 @@
 //Ingrese datos en num
+//.
 let num = 25500;
 let numtext = num.toString();
 
